@@ -1,6 +1,6 @@
 # SuperMatics
 
-SuperMatics develops the software and intelligence layer to build the future of superconductivity. We are based in Berkeley, California.
+SuperMatics, Inc. builds the software and intelligence layer for the future of superconductivity. We are based in Berkeley, California.
 
 ## Public research
 
@@ -10,6 +10,15 @@ SuperMatics develops the software and intelligence layer to build the future of 
 - [gl-vortex-morse-indices](https://github.com/SuperMatics-Inc/gl-vortex-morse-indices): Certificates for the Morse indices of nonmagnetic Ginzburg–Landau vortices of degrees four through eight. [Report](https://doi.org/10.5281/zenodo.24326103) · [Software](https://doi.org/10.5281/zenodo.24326105)
 - [lll-lattice-stability](https://github.com/SuperMatics-Inc/lll-lattice-stability): Certificates for non-hexagonal spectral stability in the lowest-Landau-level equation. [Report](https://doi.org/10.5281/zenodo.24326107) · [Software](https://doi.org/10.5281/zenodo.24326109)
 
-Other company code is private.
+The rest of our code is private.
+
+## On the website
+
+- [The platform](https://supermatics.io/platform)
+- [What superconductors make possible](https://supermatics.io/industries)
+- [Guides to superconductors](https://supermatics.io/insights)
+- [The company](https://supermatics.io/company)
+
+A few guides to start with: [NbTi, Nb3Sn and REBCO magnet conductors](https://supermatics.io/insights/nbti-vs-nb3sn-vs-rebco), [high-temperature superconductors](https://supermatics.io/insights/high-temperature-superconductors-explained), [superconductors for AI data centers](https://supermatics.io/insights/superconductors-for-ai-data-centers) and [what happened to LK-99](https://supermatics.io/insights/lk-99-what-happened).
 
 [supermatics.io](https://supermatics.io/) · [contact@supermatics.io](mailto:contact@supermatics.io)
